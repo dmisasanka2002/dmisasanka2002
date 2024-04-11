@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishan Sasanka</h1>
-<h3 align="center">Undergraduate student with a passion for programming and strong skills in Python, Java, and HTML. Proven ability in team management and collaboration, evidenced by experience as a batch representative. Eager to leverage technical abilities and leadership experience in contributing to impactful projects.</h3>
+<h3 align="center">Undergraduate mechanical engineering student with a passion for programming and strong skills in Python, Java, and web development. Proven ability in team management and collaboration, evidenced by experience as a batch representative. Eager to leverage technical abilities and leadership experience in contributing to impactful projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmisasanka2002&label=Profile%20views&color=0e75b6&style=flat" alt="dmisasanka2002" /> </p>
 
