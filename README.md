@@ -5,7 +5,7 @@
 img src="https://komarev.com/ghpvc/?username=dmisasanka2002&label=Profile%20views&color=0e75b6&style=flat" alt
 ="dmisasanka2002" />--> </p>
 
-- 🌱 I’m currently learning **mern stack, mean stack, c++, c#**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning and Computer Vision**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
