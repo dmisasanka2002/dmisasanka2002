@@ -159,18 +159,11 @@
 </p>-->
 
 <p align="center">
-  <a href="https://github.com/dmisasanka2002">
-    <img src="https://activity-graph.herokuapp.com/graph?username=dmisasanka2002&theme=react-dark&bg_color=0d1117&hide_border=true" alt="GitHub Contribution Graph"/>
+  <a href="https://skyline.github.com/dmisasanka2002">
+    <img src="https://github.com/dmisasanka2002/skyline.png" alt="GitHub Skyline"/>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Dino Game">
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=100&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=16&fontColor=fff&animation=fadeIn&fontAlignY=80"/>
-</div>
 
 
 <div align="center">
