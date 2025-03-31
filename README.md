@@ -158,13 +158,6 @@
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Dino Game">
 </p>-->
 
-<p align="center">
-  <a href="https://skyline.github.com/dmisasanka2002">
-    <img src="https://github.com/dmisasanka2002/skyline.png" alt="GitHub Skyline"/>
-  </a>
-</p>
-
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=100&section=footer&text=Thank%20You%20For%20Visiting!&fontSize=16&fontColor=fff&animation=fadeIn&fontAlignY=80"/>
