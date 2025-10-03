@@ -20,7 +20,7 @@
   
   - 🧑‍🎓 I'm an Undergraduate at **UOM**
   
-  - 📫 How to reach me **dmisasanka@gmail.com**
+  - 📫 How to reach me **ishansasankadisanayaka@gmail.com**
 </div>
 
 <br>
