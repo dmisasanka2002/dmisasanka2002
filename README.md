@@ -124,15 +124,11 @@ I am an undergraduate mechanical engineering student with a strong interest in s
 
 ---
 
-## Connect with Me
-
-<p align="left">
-  <a href="https://www.hackerrank.com/ishansasankadis1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40" />
-  </a>
-</p>
-
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+</picture>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,100:8E54E9&height=100&section=footer&text=Thank%20You%20For%20Visiting&fontSize=18&fontColor=fff&animation=fadeIn&fontAlignY=80" />
