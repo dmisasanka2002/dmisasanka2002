@@ -16,6 +16,19 @@
   </a>
 </p>
 
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/ishan-sasanka-a2b4872ab">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ishansasankadisanayaka@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://dmisasanka2002.github.io/Portfolio/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
+</p>
+
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Banner" width="100%" />
 ---
 
@@ -92,21 +105,6 @@ I am an undergraduate mechanical engineering student with a strong interest in s
 ![Top language](https://stats.pphat.top/languages?username=dmisasanka2002)
 <br/>
 
-
----
-
-## Featured Work
-
-You can place your best projects here.
-
-### Project Title 1
-Short description of what the project does and the problem it solves.
-
-### Project Title 2
-Short description of what the project does and the technologies used.
-
-### Project Title 3
-Short description of what the project does and the impact it creates.
 
 ---
 
