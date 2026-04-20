@@ -154,9 +154,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=dmisasanka2002&theme=algolia&column=6&row=1&margin-w=15&margin-h=15" alt="dmisasanka2002" />
 </p>
 
-<!--<p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Dino Game">
-</p>-->
+</p>
 
 
 <div align="center">
